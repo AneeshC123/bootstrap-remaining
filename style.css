@@ -1,0 +1,41 @@
+.rounded-circle{
+  border-color: gray;
+  width: 150px;
+  border-width: 20px;
+}
+
+
+#navlink{
+    margin-left: 20px;
+    margin-top: 30px;
+    
+
+}
+#navlink:hover{
+    border-bottom: 3px solid lightgrey;
+}
+p{
+    margin-top: 250px;
+}
+.row{
+    height: 100%;
+    padding: 0;
+}
+#wrapper{
+    
+    padding: 0;
+   position: fixed;
+  
+      
+    
+}
+#left{
+   
+}
+#bio{
+    background-image:url(profile-img.jpg);
+    width: 100%;
+    background-color: aqua;
+
+}
+
